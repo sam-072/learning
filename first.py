@@ -1,1 +1,6 @@
 print("This is just for leaning , how to use github")
+print("Tjis is for whenever we make changes in your project ")
+print("there is 3 steps for this")
+print("first one is make changes")
+print("Commit your change")
+print("push your new file")
